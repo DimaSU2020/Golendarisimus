@@ -1,4 +1,6 @@
 Структура приложения:
+```
+
     │── calendar
     │   ├── calendar.go
     │   └── calendarmethods.go
@@ -29,3 +31,5 @@
         ├── json-storage.go
         ├── storage.go
         └── zip-storage.go
+```
+
