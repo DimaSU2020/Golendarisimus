@@ -1,0 +1,8 @@
+.DS_Store
+
+*.exe
+*.out
+*.test
+/bin/
+/vendor/
+*.log
