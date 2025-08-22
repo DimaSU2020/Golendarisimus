@@ -32,4 +32,4 @@
         ├── storage.go
         └── zip-storage.go
 ```
-
+Запуск приложения стандартной командой go run main.go
