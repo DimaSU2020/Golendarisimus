@@ -2,7 +2,7 @@
 
 ![Go Version](https://img.shields.io/badge/Go-1.24%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-0.1.0-beta)
+![Version](https://img.shields.io/badge/Version-beta)
 
 Умный календарь событий с системой напоминаний, реализованный на Go - это приложение, которое позволяет управлять событиями, устанавливать напоминания и сохранять данные в различных форматах.
 
